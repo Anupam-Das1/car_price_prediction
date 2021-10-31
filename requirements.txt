@@ -17,3 +17,4 @@ seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 six @ file:///tmp/build/80754af9/six_1623709665295/work
 tornado @ file:///C:/ci/tornado_1606942379977/work
 wincertstore==0.2
+gunicorn
